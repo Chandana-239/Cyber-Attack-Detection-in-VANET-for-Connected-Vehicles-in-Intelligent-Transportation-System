@@ -122,3 +122,33 @@ Depending on the implemented dashboard features, users can explore:
 
 The dashboard uses the generated simulation dataset and trained models. It does not represent a live vehicle-network monitoring system.
 
+## Project Information
+
+**Project Type:** Final-Year Group Project
+
+**Domain:** Machine Learning, Cybersecurity, and Intelligent Transportation Systems
+
+### Project Contributions
+
+The project involves NS-3-based VANET simulation, cyberattack scenario generation,dataset preparation, machine learning model development, and an interactive Streamlit dashboard.
+
+Each team member contributed to the project as part of the collaborative development process.
+## Team Contributions
+
+This project was developed collaboratively as a final-year group project.
+
+### My Contributions — Development and Implementation
+- Implemented the 500-vehicle VANET simulation using NS-3.
+- Developed and executed normal traffic and cyberattack scenarios, including DoS, Sybil, and Blackhole attacks.
+- Generated, extracted, and validated simulation-based network traffic datasets using Python.
+- Implemented and evaluated Random Forest and Support Vector Machine (SVM) classifiers.
+- Developed the Streamlit dashboard for dataset exploration, attack classification, and model performance visualization.
+- Integrated the simulation outputs, dataset processing, machine learning models, and dashboard into the project workflow.
+
+### Teammate Contributions — Research and Documentation
+- Conducted literature surveys and reviewed related research papers.
+- Prepared project reports and technical documentation.
+- Developed presentation slides for project reviews and demonstrations.
+- Assisted with organizing research findings and documenting the project methodology.
+
+Both team members collaborated on the overall project and its academic objectives.
